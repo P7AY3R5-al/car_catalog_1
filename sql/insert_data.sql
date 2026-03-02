@@ -7,5 +7,5 @@ INSERT INTO cars (brand, model, year, color, price) VALUES
 ('Kia', 'Rio', 2022, 'Red', 1250000.00),
 ('Mercedes', 'E-Class', 2023, 'Black', 5200000.00),
 ('Audi', 'Q7', 2024, 'White', 5800000.00),
-('Volkswagen', 'Polo', 2020, 'Silver', 1050000.00),
+('Volkswagen', 'Polo', 2020, 'Silverr', 1050000.00),
 ('Nissan', 'Qashqai', 2022, 'Blue', 2100000.00);
