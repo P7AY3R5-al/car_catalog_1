@@ -21,7 +21,7 @@ FROM cars
 GROUP BY color
 HAVING COUNT(*) >= 2;
 
--- Запрос 5: Возраст автомобиля и категория
+-- Запрос 5 Возраст автомобиля и категория
 SELECT 
     brand,
     model,
