@@ -6,3 +6,4 @@ CREATE TABLE cars (
     color TEXT,
     price NUMERIC(10, 2)
 );
+SELECT * FROM cars;

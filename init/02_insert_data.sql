@@ -1,6 +1,6 @@
 INSERT INTO cars (brand, model, year, color, price) VALUES
 ('Toyota', 'Camry', 2020, 'Silver', 1500000.00),
-('BMW', 'X5', 2022, 'Black', 4500000.50),
+('BMW', 'X5', 2022, 'Black', 4500000.00),
 ('Lada', 'Vesta', 2021, 'White', 800000.00),
 ('Ford', 'Focus', 2019, 'Blue', 950000.00),
 ('Hyundai', 'Solaris', 2021, 'Gray', 1100000.00),
